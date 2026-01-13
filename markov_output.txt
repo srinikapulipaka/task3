@@ -1,0 +1,1 @@
+simple models. markov chains can generate text. text generation with markov chains is interesting.
